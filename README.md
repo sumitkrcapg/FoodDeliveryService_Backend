@@ -21,4 +21,4 @@ EatsExpress is a full-stack web application developed using Spring Boot and Angu
 
 - **Backend:** Spring Boot
 - **Frontend:** Angular
-- **Database:** [Specify your database, e.g., PostgreSQL, MySQL, etc.]
+- **Database:** MySQL
